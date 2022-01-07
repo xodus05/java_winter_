@@ -13,7 +13,7 @@ public class PowerTest {
 		
 		for (int i = 0; i < y; i++) {
 			n *= x;
-		}
+		}// 1*x*x*x
 		
 		return n;
 	}
